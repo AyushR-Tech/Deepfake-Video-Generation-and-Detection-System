@@ -1,6 +1,6 @@
 # Name: Ayush Rewatkar 
 # Roll No: 202201040033
-# Project Title: DeepFake AI System 🎭🤖
+# Project Title: Deepfake Video Generation and Detection System 🎭🤖
 
 A Streamlit app that provides:
 - Deepfake detection (VAE + ViT + heuristic fallback)
