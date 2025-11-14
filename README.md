@@ -1,6 +1,6 @@
 # Name: Ayush Rewatkar 
-# Roll No: 202201040033
-# DeepFake AI System
+Roll No: 202201040033
+DeepFake AI System
 
 A Streamlit app that provides:
 - Deepfake detection (VAE + ViT + heuristic fallback)
